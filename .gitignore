@@ -23,7 +23,7 @@ test-output/
 # Игнорируем файлы зависимостей (если используете Maven Wrapper)
 .mvn/
 # Игнорируем временные файлы Maven
-pom.xml
+src/main/pom.xml
 tag.gz
 pom.xml.
 releaseBackup
