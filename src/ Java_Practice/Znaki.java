@@ -1,5 +1,3 @@
-package Test_Test;
-
 public class Znaki {
     public static void main(String[] args) {
         int a = 3;

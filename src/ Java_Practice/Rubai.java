@@ -1,5 +1,3 @@
-package Test_Test;
-
 public class Rubai {
     public static void main(String[] args) {
 
