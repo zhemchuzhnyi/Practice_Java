@@ -25,4 +25,5 @@ test-output/
 # Игнорируем временные файлы Maven
 pom.xml
 tag.gz
-pom.xml.releaseBackup
+pom.xml.
+releaseBackup
